@@ -15,7 +15,7 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Layout />}>
+        <Route path="/WebProjekti" element={<Layout />}>
           <Route index element={<Etusivu />} />
           <Route path="kartta" element={<Kartta />} />
           <Route path="uutiset" element={<Uutiset />} />

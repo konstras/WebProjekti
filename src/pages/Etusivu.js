@@ -29,7 +29,7 @@ const Etusivu = () => {
                                     ultricies pretium. guh
 
                                 </p>
-                                <Link to="/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
+                                <Link to="/WebProjekti/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
                             </div>
                             <div className="col-sm-6">
                                 <h4>Heading</h4>
@@ -53,9 +53,9 @@ const Etusivu = () => {
                                     ultricies pretium.
 
                                 </p>
-                                <Link to="/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
+                                <Link to="/WebProjekti/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
                             </div>
-                            <Link to="/uutiset" style={{ "textAlign": "right" }}><strong>Katso muita uutisia</strong></Link>
+                            <Link to="/WebProjekti/uutiset" style={{ "textAlign": "right" }}><strong>Katso muita uutisia</strong></Link>
                         </div>
                         <div className="col-sm-6">
                             <img id="isoKuva" src={sivuIsoKuva} alt="" />

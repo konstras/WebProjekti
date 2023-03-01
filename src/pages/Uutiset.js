@@ -27,7 +27,7 @@ const Uutiset = () => {
                             ultricies pretium.
 
                         </p>
-                        <Link to="/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
+                        <Link to="/WebProjekti/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
                     </div>
                     <div className="col-sm-5" id="uutisLaatikko">
                         <h4>Uutis esimerkki 2</h4>
@@ -51,7 +51,7 @@ const Uutiset = () => {
                             ultricies pretium.
 
                         </p>
-                        <Link to="/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
+                        <Link to="/WebProjekti/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
 
                     </div>
                 </div>
@@ -80,7 +80,7 @@ const Uutiset = () => {
                             ultricies pretium.
 
                         </p>
-                        <Link to="/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
+                        <Link to="/WebProjekti/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
                     </div>
                     <div className="col-sm-5" id="uutisLaatikko">
                         <h4>Uutis esimerkki 4</h4>
@@ -104,7 +104,7 @@ const Uutiset = () => {
                             ultricies pretium.
 
                         </p>
-                        <Link to="/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
+                        <Link to="/WebProjekti/uutisSivu" style={{ "float": "right" }}>Lue lisää...</Link>
 
                     </div>
                 </div>

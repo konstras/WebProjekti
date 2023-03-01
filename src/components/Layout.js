@@ -9,13 +9,13 @@ const Layout = () => {
                     <h1 id="title" style={{ "float": "left" }}><strong>In The Forest</strong></h1>
                 </div>
                 <nav class="topnav">
-                    <Link to="/">Etusivu</Link>
-                    <Link to="/kartta">Kartta</Link>
-                    <Link to="/uutiset">Uutiset</Link>
+                    <Link to="/WebProjekti">Etusivu</Link>
+                    <Link to="/WebProjekti/kartta">Kartta</Link>
+                    <Link to="/WebProjekti/uutiset">Uutiset</Link>
                     <div class="search-container">
                         <form class="form-inline">
                             <input type="text" placeholder="Etsi ratoja" name="search" />
-                            <Link to="/rata">
+                            <Link to="/WebProjekti/rata">
                             <button type="submit">Hae</button>
                             </Link>
                         </form>
