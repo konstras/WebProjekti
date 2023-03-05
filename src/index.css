@@ -104,12 +104,12 @@ body {
   min-width: 390px;
   
 }
-
+/*
 @media (max-width: 1200px) {
   .container{
     min-width: 500px;
   }
-}
+}*/
 .mapouter{
   position:relative;
   text-align:right;

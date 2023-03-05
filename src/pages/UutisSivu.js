@@ -1,6 +1,6 @@
 const UutisSivu = () => {
     return (
-        <div className="container">
+        <div className="container" style={{"marginTop":"12px"}}>
             <div className="row">
                 <div id="uutiset" className="col-sm-12" style={{ "marginLeft": "12px" }}>
                     <h1 style={{ "marginLeft": "12px" }}>Uutis Sivu</h1>
